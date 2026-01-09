@@ -22,8 +22,20 @@ body {
     justify-content: center;
 }
 
-#portfolio-body{
+  
+.custom-body{
     flex-direction: column;
+}
+
+#katatoniata-info{
+    width: 60%;
+    color:rgb(81, 21, 134)
+
+}
+
+#band-picture {
+    width:50%;
+    height: 50%;
 }
 
 p{
